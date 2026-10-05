@@ -10,7 +10,7 @@
 
 ## 下载
 
-👉 **[点这里下载最新版](https://github.com/你的用户名/school-broadband/releases/latest)**
+👉 **[点这里下载最新版](https://github.com/lulinzhan/school-broadband/releases/latest)**
 
 
 
@@ -72,7 +72,7 @@
 
 ## 说明
 
-这个仓库只放说明文档，**安装包在 [Releases](https://github.com/你的用户名/school-broadband/releases) 里**。
+这个仓库只放说明文档，**安装包在 [Releases](https://github.com/lulinzhan/school-broadband/releases) 里**。
 
 遇到问题把 `%LOCALAPPDATA%\SchoolBroadband\last-run.log` 的内容贴到 Issues 里，里面写了具体的错误码。
 
